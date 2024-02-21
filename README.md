@@ -3,11 +3,11 @@
 <h2>Foram utilizados: </h2>
 <ul>
 <li><a href="https://nodejs.org/">Node.js</a></li>
-<li><a href="https://www.javascript.com/">Teste com Jest</a></li>
-<li><a href="https://www.npmjs.com/package/sqlite3">Github Actions</a></li>
-<li><a href="https://expressjs.com/pt-br/">Padrão Convencional Commit</a></li>
-<li><a href="https://pt-br.reactjs.org/">Conceito de Gitflow</a></li>
-<li><a href="https://pt-br.reactjs.org/">Conceito de TDD</a></li>
+<li><a href="https://jestjs.io/pt-BR/">Teste com Jest</a></li>
+<li>Github Actions</li>
+<li><a href="https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657">Padrão Convencional Commit</a></li>
+<li><a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow">Conceito de Gitflow</a></li>
+<li><a href="https://dev.to/womakerscode/o-que-e-tdd-4b5f">Conceito de TDD</a></li>
 </ul>
 <h2>Como executar o projeto: </h2>
 <ul>
