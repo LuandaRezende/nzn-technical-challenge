@@ -1,3 +1,5 @@
+const search = require('../index');
+
 describe('Search function', () => {
     test('Should find target when it exists', () => {
         const nums = [-1, 0, 3, 5, 9, 12];
