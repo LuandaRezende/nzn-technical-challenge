@@ -3,7 +3,7 @@ name: Build and Test Workflow
 on:
   push:
     branches:
-      - master
+      - main
       - develop
 
 jobs:
