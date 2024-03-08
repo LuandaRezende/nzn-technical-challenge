@@ -1,5 +1,5 @@
 <h2>Sobre o projeto</h2>
-<p>Desafio técnico NZN</p>
+<p>Desafio técnico</p>
 <h2>Foram utilizados: </h2>
 <ul>
 <li><a href="https://nodejs.org/">Node.js</a></li>
